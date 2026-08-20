@@ -1,5 +1,6 @@
 # Local-LLM-Research_Analyzer
 
+
 ## Run the followings in terminal
 ollama run deepseek-r1:1.5b
 
@@ -11,4 +12,4 @@ pip install streamlit openai python-docx PyPDF2 httpx
 ollama serve
 
 ### Terminal 2
-streamlit run research_assistant_2.0.py
+streamlit run code_assistant.py/research_assistant_2.0.py
